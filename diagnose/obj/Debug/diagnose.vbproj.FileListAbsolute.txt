@@ -1,0 +1,26 @@
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\bin\Debug\diagnose.exe
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\bin\Debug\diagnose.pdb
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\bin\Debug\diagnose.xml
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\ResolveAssemblyReference.cache
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.Form1.resources
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.Resources.resources
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.vbproj.GenerateResource.Cache
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.exe
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.xml
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.pdb
+E:\Dokumente und Einstellungen\Moritz\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\diagnose\obj\Debug\diagnose.Main.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.exe
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.xml
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.pdb
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\bin\Debug\diagnose.exe
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\bin\Debug\diagnose.pdb
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\bin\Debug\diagnose.xml
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.Form1.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.Main.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.Resources.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.vbproj.GenerateResource.Cache
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.FrmLeistung.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.About.resources
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\obj\Debug\diagnose.vbprojResolveAssemblyReference.cache
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\bin\Debug\SkinSoft.VisualStyler.dll
+E:\Dokumente und Einstellungen\Moritz\Eigene Dateien\Visual Studio 2008\Projects\diagnose\diagnose\bin\Debug\SkinSoft.VisualStyler.xml
